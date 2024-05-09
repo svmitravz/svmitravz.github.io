@@ -1,0 +1,48 @@
+
+        * {
+            details-text: eval(tag('name'));
+            details-description: eval(tag('description'));
+        }
+        
+            node|z10-[code=pn]{
+            icon-image: "poi_tree.svg";
+            icon-scale: 2;
+            icon-tint: #007431;
+            image-allow-overlap: true;
+        }
+        
+            node|z10-[code=p]{
+            icon-image: "poi_parking.svg";
+            icon-scale: 2;
+            icon-tint: #3399ff;
+            image-allow-overlap: true;
+        }
+        
+            node|z10-[code=apn]{
+            icon-image: "poi_tree.svg";
+            icon-scale: 2;
+            icon-tint: #804000;
+            image-allow-overlap: true;
+        }
+        
+            node|z10-[code=acc_g]{
+            icon-image: "poi_car_rental.svg";
+            icon-scale: 1;
+            icon-tint: #00802b;
+            image-allow-overlap: true;
+        }
+        
+            node|z10-[code=ds]{
+            icon-image: "poi_bar.svg";
+            icon-scale: 1;
+            icon-tint: #e066ff;
+            image-allow-overlap: true;
+        }
+        
+            node|z10-[code=pss]{
+            icon-image: "poi_parking.svg";
+            icon-scale: 2;
+            icon-tint: #0066ff;
+            image-allow-overlap: true;
+        }
+        
