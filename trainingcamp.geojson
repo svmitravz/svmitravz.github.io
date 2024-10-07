@@ -13172,7 +13172,7 @@
         "name": "Jouf di Miezegnot - Val Dogna e Val Saisera",
         "description": "km: 58,38 km\nheight: +1 800 mt",
         "website": "https://training.camp/en/route/1376/jouf-di-miezegnot-val-dogna-e-val-saisera/",
-        "color": "#FFD70080"
+        "color": "black80"
       }
     },
     {
@@ -19730,7 +19730,7 @@
         "name": "Valbruna: Monte Lussari - CAI 612",
         "description": "km: 18,75 km\nheight: +1 000 mt",
         "website": "https://training.camp/en/route/2068/valbruna-monte-lussari-cai-612/",
-        "color": "#FFD70080"
+        "color": "black80"
       }
     },
     {
@@ -23808,7 +23808,7 @@
         "name": "Cima Bella Malborghetto",
         "description": "km: 32,90 km\nheight: +1 560 mt",
         "website": "https://training.camp/en/route/993/cima-bella-malborghetto/",
-        "color": "#FFD70080"
+        "color": "black80"
       }
     }
   ]
