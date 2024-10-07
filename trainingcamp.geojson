@@ -13171,7 +13171,7 @@
       "properties": {
         "name": "Jouf di Miezegnot - Val Dogna e Val Saisera",
         "website": "https://training.camp/en/route/1376/jouf-di-miezegnot-val-dogna-e-val-saisera/",
-        "color": "black80"
+        "color": "#148cf080"
       }
     },
     {
@@ -19728,7 +19728,7 @@
       "properties": {
         "name": "Valbruna: Monte Lussari - CAI 612",
         "website": "https://training.camp/en/route/2068/valbruna-monte-lussari-cai-612/",
-        "color": "black80"
+        "color": "#148cf080"
       }
     },
     {
@@ -23805,7 +23805,7 @@
       "properties": {
         "name": "Cima Bella Malborghetto",
         "website": "https://training.camp/en/route/993/cima-bella-malborghetto/",
-        "color": "black80"
+        "color": "#148cf080"
       }
     }
   ]
