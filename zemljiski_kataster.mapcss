@@ -1,0 +1,25 @@
+
+* {
+    details-text: eval(tag('name'));
+    details-description: eval(any(tag('description'), tag('desc')));
+    }
+    node{
+        icon-image: 'poi_geojson.svg';
+        icon-offset-y: 0;
+        image-allow-overlap: true;
+        color: eval(any(tag('color'), black));
+
+    }
+
+    line{
+        width: 3pt;
+        color: eval(any(tag('color'), black));
+        linecap: round;
+}
+
+    area{
+        fill-color: #3395FF88;
+        width: 2pt;
+        color: eval(any(tag('color'), black));
+    }
+
